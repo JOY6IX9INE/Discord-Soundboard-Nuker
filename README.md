@@ -11,9 +11,8 @@ The Discord Soundboard Nuker is a tool designed to play random sounds in a disco
 
 ## Prerequisites
 
-Before you begin, ensure you have met the following requirements :
-- Python 3.x installed on your machine.
-- Dependencies installed. You can install them using `pip install -r requirements.txt`.
+- Python 3.x
+- [tls_client](https://github.com/DiscordHackWeek/tls_client) library
 
 ## Usage
 
