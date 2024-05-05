@@ -1,4 +1,4 @@
-```
+
 # Discord Soundboard Nuker
 
 The Discord Soundboard Nuker is a tool designed to play random sounds in a discord voice channel using discord's API.
@@ -60,4 +60,4 @@ Contributions are welcome! Feel free to submit pull requests or open issues.
 ## Support
 
 For support, contact [yourusername](https://github.com/yourusername).
-```
+
