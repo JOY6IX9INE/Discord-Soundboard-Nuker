@@ -1,7 +1,7 @@
 
 # Discord Soundboard Nuker
 
-The Discord Soundboard Nuker is a tool designed to play random sounds in a discord voice channel using discord's API.
+The Discord Soundboard Nuker is a tool designed to play random sounds in a discord voice channel using discord's API. It can be used for fun or educational purposes.
 
 ## Features
 
@@ -11,53 +11,19 @@ The Discord Soundboard Nuker is a tool designed to play random sounds in a disco
 
 ## Prerequisites
 
-Before you begin, ensure you have met the following requirements:
-
+Before you begin, ensure you have met the following requirements :
 - Python 3.x installed on your machine.
 - Dependencies installed. You can install them using `pip install -r requirements.txt`.
 
 ## Usage
 
-To use Discord Soundboard Nuker, follow these steps:
+1. Install Python 3.x on your system if you haven't already.
+2. Clone this repository to your local machine.
+3. Run the `start.bat` file to automatically install dependencies and run the script.
+4. Paste your account token and other details when prompted and press enter.
+5. Sit back and watch as the script automatically plays random sounds in discord.
 
-1. Clone the repository:
+# Disclaimer
+This tool is created for educational purposes and ethical use only. Any misuse of this tool for malicious purposes is not condoned. The developers of this tool are not responsible for any illegal or unethical activities carried out using this tool.
 
-```
-git clone https://github.com/yourusername/discord-soundboard-nuker.git
-```
-
-2. Navigate to the project directory:
-
-```
-cd discord-soundboard-nuker
-```
-
-3. Run the script:
-
-```
-python main.py
-```
-
-4. Enter your Discord account token and the voice channel ID when prompted.
-
-## Configuration
-
-You can configure the tool by modifying the `default_sounds` list in the `SoundboardNuker` class to include your desired sounds.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Contributions are welcome! Feel free to submit pull requests or open issues.
-
-## Acknowledgements
-
-- [tls_client](https://github.com/peter50216/tls_client) - A TLS library for Python.
-- [discord.py](https://github.com/Rapptz/discord.py) - An API wrapper for Discord written in Python.
-
-## Support
-
-For support, contact [yourusername](https://github.com/yourusername).
-
+[![Star History Chart](https://api.star-history.com/svg?repos=JOY6IX9INE/Discord-Soundboard-Nuker&type=Date)](https://star-history.t9t.io/#JOY6IX9INE/Discord-Soundboard-Nuker&Date)
